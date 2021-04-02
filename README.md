@@ -16,12 +16,15 @@ _Note: The above requirment has to be considered based on the organization requi
 
 ## IP Submit Form 
 
-Project and Network Details to be filled in the IP Submit Form (_All details in the WHITE color to be filled mandatory_) 
+Project and Network Details to be filled in the IP Submit Form (_All details in the **WHITE** color to be filled mandatory_) 
 
 ### Project Details
 
-|**Project Name**| _Name of the Project_|
-|-----------|-----|
+|Category|Details |
+|-----------|-------|
+|Project Name| _Name of the Project_|
+|Application Name|_Name of the Application_|
+
 
 
 
