@@ -7,7 +7,7 @@ IP address management (IPAM) is a means of planning, tracking, and managing the 
 1. Enable Macros when you open the worksheet
 2. IP Addresses Considered For Cloud Segregation: 
 
-    |**Cloud Provider|IP address range|Classification|Number of addresses**|
+    |**Cloud Provider**|IP address range|Classification|Number of addresses|
     |--------------|----------------|--------------|-------------------|    
     |Microsoft Azure|10.0.0.0 – 10.255.255.255|Class A|16777216|
     |Amazon Web Services| 172.16.0.0 – 172.31.255.255|Class B|1048576
@@ -20,7 +20,7 @@ Project and Network Details to be filled in the IP Submit Form (_All details in 
 
 ### Project Details
 
-|**Project Name| _Name of the Project_|
+|**Project Name**| _Name of the Project_|
 |-----------|-----|
 
 
