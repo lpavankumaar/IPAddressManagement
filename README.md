@@ -20,12 +20,30 @@ Project and Network Details to be filled in the IP Submit Form (_All details in 
 
 ### Project Details
 
-|Category|Details |
+|Category|Details|
 |-----------|-------|
 |Project Name| _Name of the Project_|
 |Application Name|_Name of the Application_|
+|Business Unit|_Name of the Business Unit_|	
+|Cloud Provider|_Choose Cloud Provider from Drop Down section_|	
+|Requested By|_Name of the Requestor_| 	
+|Number of Virtual Networks|_Number of VNET's planned for this project_|
+|Number of Resources|_Number of resources (approximate count) planned for this project_|
 
+### Network Details
 
+|Category|Details|
+|-----------|-------|
+|VNET / VPC Name|_Name of the VNET / VPC_|	
+|CIDR Block|_CIDR Block for the Project_| 	
+|Network Size (Count)|_Auto Fill_|
+|Netmask|_Auto Fill_|	
+|Wildcard Mask|_Auto Fill_|	
+|First IP Address|_Auto Fill_|	
+|Last IP Address|_Auto Fill_|	
+|CIDR Availability|_Auto Fill_ **(Available / Duplicate)**|	
+|Cloud IP Range Choice|_Auto Fill_ **(VALID / INVALID)**|	
+|Final Request Validation|_Auto Fill_ **(VALID / INVALID)**|
 
 
 
